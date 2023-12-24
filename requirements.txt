@@ -1,0 +1,6 @@
+```txt
+fastapi-crudrouter
+jinja2
+sqlalchemy
+pydantic
+```
